@@ -1,0 +1,7 @@
+C:\Users\ashwi\source\repos\CarMove\CarMove\bin\Debug\CarMove.exe.config
+C:\Users\ashwi\source\repos\CarMove\CarMove\bin\Debug\CarMove.exe
+C:\Users\ashwi\source\repos\CarMove\CarMove\bin\Debug\CarMove.pdb
+C:\Users\ashwi\source\repos\CarMove\CarMove\obj\Debug\CarMove.csproj.AssemblyReference.cache
+C:\Users\ashwi\source\repos\CarMove\CarMove\obj\Debug\CarMove.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\source\repos\CarMove\CarMove\obj\Debug\CarMove.exe
+C:\Users\ashwi\source\repos\CarMove\CarMove\obj\Debug\CarMove.pdb
